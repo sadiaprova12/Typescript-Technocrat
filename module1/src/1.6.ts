@@ -1,3 +1,6 @@
+{
+
+
 // Learning Function
 // Normal Function
 // Arrow Function
@@ -23,3 +26,5 @@ const poorUser = {
 const arr : number[]= [1,4,10]
 
 const newArray = arr.map((elem : number): number => elem* elem);
+
+}
