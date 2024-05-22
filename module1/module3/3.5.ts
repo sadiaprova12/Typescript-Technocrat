@@ -29,7 +29,7 @@
   
   
     const goribManusherAccount = new BankAccount(111, "Mr. gorib", 20);
-    // goribManusherAccount.balance = 0;
+    // poorManusherAccount.balance = 0;
     goribManusherAccount.addDeposit(20);
     const myBalance = goribManusherAccount.getBalance();
     console.log(myBalance);
